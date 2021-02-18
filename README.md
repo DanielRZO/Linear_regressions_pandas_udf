@@ -1,4 +1,4 @@
-The objective of this notebook is to illustrate a grouping linear regression with pandas_udf
+The objective of this notebook is illustrate a grouping linear regression with pandas_udf
 
 * pandas_udf
 * databricks
